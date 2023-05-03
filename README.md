@@ -34,14 +34,14 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" title="Python" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" title="Django" alt="Django"> <img height="48" src="img/react-original.svg" title="Reactjs" alt="react"> <img height="48" src="img/typescript_logo.svg" title="TypeScript" alt="typescript"> <img height="48" src="img/material-ui.png" title="Material UI" alt="material ui"> <img height="48" src="img/postgresql-original.svg" title="Postgresql" alt="postgresql"> <img height="48" src="img/airflow.svg" title="Apache Airflow" alt="apache airflow"> <img height="48" src="img/nuclio.png" title="Nuclio" alt="nuclio"> <img height="48" src="img/docker-original.svg" title="Docker" alt="Docker"> <img height="48" src="img/linux-original.svg" title="Linux" alt="linux"> <img height="48" src="img/pytest-original.svg" title="Pytest" alt="pytest"> <img height="48" src="img/cypress.svg" title="Cypress" alt="cypress"> <img height="48" src="img/git-original.svg" title="Git" alt="git">
+<img height="48" src="img/python-original.svg" title="Python" alt="python"> <img height="48" src="img/django-icon-0.png" title="Django" alt="Django"> <img height="48" src="img/react-original.svg" title="Reactjs" alt="react"> <img height="48" src="img/typescript_logo.svg" title="TypeScript" alt="typescript"> <img height="48" src="img/material-ui.png" title="Material UI" alt="material ui"> <img height="48" src="img/postgresql-original.svg" title="Postgresql" alt="postgresql"> <img height="48" src="img/airflow.svg" title="Apache Airflow" alt="apache airflow"> <img height="48" src="img/nuclio.png" title="Nuclio" alt="nuclio"> <img height="48" src="img/docker-original.svg" title="Docker" alt="Docker"> <img height="48" src="img/linux-original.svg" title="Linux" alt="linux"> <img height="48" src="img/pytest-original.svg" title="Pytest" alt="pytest"> <img height="48" src="img/cypress.svg" title="Cypress" alt="cypress"> <img height="48" src="img/git-original.svg" title="Git" alt="git">
 
 #### Development:
 
 <b>⚡ Github Stats</b>
 
 <p float="left">
-<img height="205em" src="https://github.com/ibraym/github-stats/blob/master/generated/overview.svg##gh-dark-mode-only" />
+<img height="205em" src="https://github.com/ibraym/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img height="205em" src="https://github.com/ibraym/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 </p>
 
