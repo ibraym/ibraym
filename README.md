@@ -1,4 +1,4 @@
-## Software engineer and Open-source contributor in Computer Vision, Machine Learning, and DevOps space.
+## Software engineer and open-source contributor in Computer Vision, Machine Learning, and DevOps space.
 
 <p align="left">
   <a href="https://leetcode.com/ibraym/">
