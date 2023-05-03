@@ -34,17 +34,18 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/react-original.svg" alt="react"> <img height="48" src="img/typescript_logo.svg" alt="typescript"> <img height="48" src="img/material-ui.png" alt="material ui"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/airflow.svg" alt="apache airflow"> <img height="48" src="img/nuclio.png" alt="nuclio"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/cypress.svg" alt="cypress"> <img height="48" src="img/git-original.svg" alt="git">
+<img height="48" src="img/python-original.svg" title="Python" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" title="Django" alt="Django"> <img height="48" src="img/react-original.svg" title="Reactjs" alt="react"> <img height="48" src="img/typescript_logo.svg" title="TypeScript" alt="typescript"> <img height="48" src="img/material-ui.png" title="Material UI" alt="material ui"> <img height="48" src="img/postgresql-original.svg" title="Postgresql" alt="postgresql"> <img height="48" src="img/airflow.svg" title="Apache Airflow" alt="apache airflow"> <img height="48" src="img/nuclio.png" title="Nuclio" alt="nuclio"> <img height="48" src="img/docker-original.svg" title="Docker" alt="Docker"> <img height="48" src="img/linux-original.svg" title="Linux" alt="linux"> <img height="48" src="img/pytest-original.svg" title="Pytest" alt="pytest"> <img height="48" src="img/cypress.svg" title="Cypress" alt="cypress"> <img height="48" src="img/git-original.svg" title="Git" alt="git">
 
-<!-- #### Development Stuffs:
+#### Development:
 
 <b>⚡ Github Stats</b>
+
 <p float="left">
-<img height="205em" src="https://raw.githubusercontent.com/ibraym/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" />
-<img height="205em" src="https://raw.githubusercontent.com/ibraym/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<img height="205em" src="https://github.com/ibraym/github-stats/blob/master/generated/overview.svg##gh-dark-mode-only" />
+<img height="205em" src="https://github.com/ibraym/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
+<!-- <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/ibraym?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/ibraym/cf-stats/main/output/light_card.svg" />
