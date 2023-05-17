@@ -32,7 +32,7 @@
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Computer Vision**, **Machine Learning** and **DevOps**
 
-#### My Current Stack
+#### Current Stack
 
 <img height="48" src="img/python-original.svg" title="Python" alt="python"> <img height="48" src="img/django-icon-0.png" title="Django" alt="Django"> <img height="48" src="img/react-original.svg" title="Reactjs" alt="react"> <img height="48" src="img/typescript_logo.svg" title="TypeScript" alt="typescript"> <img height="48" src="img/material-ui.png" title="Material UI" alt="material ui"> <img height="48" src="img/postgresql-original.svg" title="Postgresql" alt="postgresql"> <img height="48" src="img/airflow.svg" title="Apache Airflow" alt="apache airflow"> <img height="48" src="img/nuclio.png" title="Nuclio" alt="nuclio"> <img height="48" src="img/docker-original.svg" title="Docker" alt="Docker"> <img height="48" src="img/linux-original.svg" title="Linux" alt="linux"> <img height="48" src="img/pytest-original.svg" title="Pytest" alt="pytest"> <img height="48" src="img/cypress.svg" title="Cypress" alt="cypress"> <img height="48" src="img/git-original.svg" title="Git" alt="git">
 
@@ -59,7 +59,7 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ibraym/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ibraym/1" alt="Latest medium article"> </a> -->
 
-#### Connect With Me
+#### Connect
 
 <p left="center">
 <a href="https://www.linkedin.com/in/ibraym/">
@@ -72,3 +72,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+
+### Support
+
+<a href="https://www.buymeacoffee.com/ibrahemymo4"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ibrahemymo4&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
