@@ -1,4 +1,4 @@
-## Software engineer and open-source contributor in Computer Vision, Machine Learning, and DevOps space.
+## Software Engineer and Co-Founder of [DronEye](http://droneye-tech.com/)
 
 <p align="left">
   <a href="https://leetcode.com/ibraym/">
@@ -19,22 +19,18 @@
 
 </p>
 
-#### Now
-
-- ✨ Currently Contributing to [datumaro](https://github.com/openvinotoolkit/datumaro); [
-  OpenWallet Foundation ](https://github.com/openwallet-foundation)
-- :calendar: Looking for contributing to open-source project on Computer Vision, Machine Learning, and DevOps domain
-
 #### Bio
 
-- 🏢 I'm currently working at [Reveal AI](http://revealai.de/)
-- ⚙️ I use daily: `.py`, `.ts`, `.tsx`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **Computer Vision**, **Machine Learning** and **DevOps**
+- 🏢 Software engineer at [Reveal AI](http://revealai.de/)
+- :construction_worker_man: Co-Founder and development lead at [DronEye](http://droneye-tech.com/)
+- :man_student: PhD candidate in **UAV Communication** and **Federated Learning**
+- ⚙️ I use daily: `.py`, `.java`, `.ts`, `.tsx`, `.yml`, `.sh`, `.m`
+- 🌱 Learning all about **Machine Learning** and **DevOps**
+- :calendar: Looking for contributing to open-source project on Machine Learning and DevOps domain
 
 #### Current Stack
 
-<img height="48" src="img/python-original.svg" title="Python" alt="python"> <img height="48" src="img/django-icon-0.png" title="Django" alt="Django"> <img height="48" src="img/react-original.svg" title="Reactjs" alt="react"> <img height="48" src="img/typescript_logo.svg" title="TypeScript" alt="typescript"> <img height="48" src="img/material-ui.png" title="Material UI" alt="material ui"> <img height="48" src="img/postgresql-original.svg" title="Postgresql" alt="postgresql"> <img height="48" src="img/airflow.svg" title="Apache Airflow" alt="apache airflow"> <img height="48" src="img/nuclio.png" title="Nuclio" alt="nuclio"> <img height="48" src="img/docker-original.svg" title="Docker" alt="Docker"> <img height="48" src="img/linux-original.svg" title="Linux" alt="linux"> <img height="48" src="img/pytest-original.svg" title="Pytest" alt="pytest"> <img height="48" src="img/cypress.svg" title="Cypress" alt="cypress"> <img height="48" src="img/git-original.svg" title="Git" alt="git">
+<img height="48" src="img/python-original.svg" title="Python" alt="python"> <img height="48" src="img/django-icon-0.png" title="Django" alt="Django"> <img height="48" src="img/react-original.svg" title="Reactjs" alt="react"> <img height="48" src="img/typescript_logo.svg" title="TypeScript" alt="typescript"> <img height="48" src="img/material-ui.png" title="Material UI" alt="material ui"> <img height="48" src="img/postgresql-original.svg" title="Postgresql" alt="postgresql"> <img height="48" src="img/aws.svg" title="AWS" alt="apache airflow"> <img height="48" src="img/airflow.svg" title="Apache Airflow" alt="apache airflow"> <img height="48" src="img/nuclio.png" title="Nuclio" alt="nuclio"> <img height="48" src="img/docker-original.svg" title="Docker" alt="Docker"> <img height="48" src="img/linux-original.svg" title="Linux" alt="linux"> <img height="48" src="img/pytest-original.svg" title="Pytest" alt="pytest"> <img height="48" src="img/cypress.svg" title="Cypress" alt="cypress"> <img height="48" src="img/git-original.svg" title="Git" alt="git">
 
 #### Development:
 
