@@ -58,9 +58,9 @@
 #### Connect
 
 <p left="center">
-<a href="https://www.linkedin.com/in/ibraym/">
+<!-- <a href="https://www.linkedin.com/in/ibraym/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
+</a> -->
 <a href="https://t.me/ibraymh">
   <img src="https://img.shields.io/badge/Telegram-%2327a7e7?style=for-the-badge&logo=telegram&logoColor=white" height=25>
 </a>
