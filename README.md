@@ -1,18 +1,18 @@
-## Software Engineer and Co-Founder of [DronEye](http://droneye-tech.com/)
+## Founder & Tech Lead @ [DronEye Tech](http://droneye-tech.com/) | PhD Candidate 
 
 <p align="left">
-  <a href="https://leetcode.com/ibraym/">
+  <!-- <a href="https://leetcode.com/ibraym/">
     <img src="https://cp-logo.vercel.app/leetcode/ibraym" alt="Leet code rating" />
   </a>
   <!-- <a href="https://codeforces.com/profile/ibraym">
     <img src="https://raw.githubusercontent.com/ibraym/cf-stats/main/output/rating.svg" alt="Code forces rating" />
   </a> -->
-  <a href="https://stackoverflow.com/users/21745023/ibraym">
+  <!-- <a href="https://stackoverflow.com/users/21745023/ibraym">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21745023?color=orange&label=reputation&logo=stackoverflow">
-  </a>
+  </a> -->
   <a href="https://github.com/ibraym?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ibraym?color=green&logo=github">
-  </a>
+  </a> 
   <a href="https://github.com/ibraym/">
     <img src="https://komarev.com/ghpvc/?username=ibraym" alt="visitors" />
   </a>
@@ -22,7 +22,7 @@
 #### Bio
 
 - 🏢 Software engineer at [Reveal AI](http://revealai.de/)
-- :construction_worker_man: Co-Founder and development lead at [DronEye](http://droneye-tech.com/)
+- :construction_worker_man: Founder & Tech Lead @ [DronEye Tech](http://droneye-tech.com/)
 - :man_student: PhD candidate in **UAV Communication** and **Federated Learning**
 - ⚙️ I use daily: `.py`, `.java`, `.ts`, `.tsx`, `.yml`, `.sh`, `.m`
 - 🌱 Learning all about **Machine Learning** and **DevOps**
@@ -58,12 +58,12 @@
 #### Connect
 
 <p left="center">
-<!-- <a href="https://www.linkedin.com/in/ibraym/">
+<a href="https://www.linkedin.com/in/ibraym/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> -->
-<a href="https://t.me/ibraymh">
-  <img src="https://img.shields.io/badge/Telegram-%2327a7e7?style=for-the-badge&logo=telegram&logoColor=white" height=25>
 </a>
+<!-- <a href="https://t.me/ibraymh">
+  <img src="https://img.shields.io/badge/Telegram-%2327a7e7?style=for-the-badge&logo=telegram&logoColor=white" height=25>
+</a> -->
 <a href="mailto:ibrahem.y.mouhamad@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
